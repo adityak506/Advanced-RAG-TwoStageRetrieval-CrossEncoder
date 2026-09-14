@@ -235,6 +235,10 @@ This module sets the foundation for:
 ✅ Advanced ranking logic
 ✅ LTR (Learning to Rank)
 
+💡 THE OUTCOME
+⚡ Speed of Bi-Encoders to search across thousands of documents in milliseconds. 🎯 Accuracy of Cross-Encoders to eliminate distractors and feed pure signal to the LLM.
+
+This is the exact retrieval architecture powering production systems like Perplexity AI, Bing Search, and Cohere.
 ---
 
 # ✅ Status: COMPLETED ✅
