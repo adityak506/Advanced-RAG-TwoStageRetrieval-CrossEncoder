@@ -17,6 +17,12 @@ You now have a fully modular, production-style implementation of it.
 
 ---
 
+## 🏛️ System Architecture
+
+![Two-Stage Retrieval & Cross-Encoder Architecture](assets/two_stage_rag_architecture.png)
+
+---
+
 # 🚀 Project Features
 
 ### ✅ 1. **Semantic Retrieval (FAISS) — Stage 1**
